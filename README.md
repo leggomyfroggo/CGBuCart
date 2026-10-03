@@ -1,4 +1,5 @@
 # CGB uCart
+![CGB uCart on a standard sized cartridge](header_image.jpg)
 CGB uCart is a spec for a small format Game Boy and Game Boy Color cartridge standard. Originally designed for the Time Frog Color and Egg Boy Color due to their small size requirements, I'm opening up the spec for others to utilize in their own projects.
 
 ## Reference Files
